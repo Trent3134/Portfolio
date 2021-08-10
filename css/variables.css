@@ -1,0 +1,28 @@
+
+:root {
+    --red: #e80d0d; 
+    --orange: #f98500; 
+    --yellow: #ffc600;
+    --green: #10a503;
+    --blue-green: #0ed6a4;
+    --brown: brown;
+    --lightgray: lightgray;
+    --skyblue: skyblue;
+    --white: #f7f3f3;
+
+    
+    
+
+    --font-one: 'yellowtail', 'cursive';
+    --font-two: 'poppins', 'sans-serif';
+    --font-three: 'vogue';
+    
+
+}
+
+@font-face {
+    font-family: 'vogue';
+    src: url ('../assets/img/vogue.ttf');
+    font-weight:bolder;
+}
+

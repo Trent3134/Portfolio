@@ -1,0 +1,17 @@
+.landing {
+    background: url(../assets/oliver-pecker-HONJP8DyiSM-unsplash.jpg);
+    background-size: contain;
+
+}
+
+.display-2{
+    color: var(--white);
+    font-weight: 900;
+}
+
+.lead {
+    color: var(--white);
+    font-display: ;
+    font-weight: 700;
+}
+
