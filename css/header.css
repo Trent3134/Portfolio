@@ -1,6 +1,6 @@
 .landing {
     background: url(../assets/oliver-pecker-HONJP8DyiSM-unsplash.jpg);
-    background-size: contain;
+    background-size: cover;
 
 }
 
@@ -11,7 +11,42 @@
 
 .lead {
     color: var(--white);
-    font-display: ;
     font-weight: 700;
+}
+
+.myself{
+    height: 450px;
+    width: 350px;
+    border: silver;
+    border-radius: 3px;
+    border-style: double;
+    border-width: 6px;
+}
+
+.colts{
+    height: 100px;
+    width: 100px;
+    border: silver;
+    border-radius: 3px;
+    border-style: double;
+    border-width: 6px;
+}
+
+.pacers{
+    height: 100px;
+    width: 100px;
+    border: silver;
+    border-radius: 3px;
+    border-style: double;
+    border-width: 6px;
+}
+
+.reds{
+    height: 100px;
+    width: 150px;
+    border: silver;
+    border-radius: 3px;
+    border-style: double;
+    border-width: 6px;
 }
 

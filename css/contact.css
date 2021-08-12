@@ -1,6 +1,12 @@
-#contact {
-    background: var(--black);
-    padding-bottom: 3em;
+#fs-frm {
+    background-image: url(../assets/jeremy-bishop-axCBZHXGQKo-unsplash.jpg);
+    background-size: cover;
+    font-weight: 300px;
+    
 
+}
+
+.fifty{
+    background-image: url(../assets/jeremy-bishop-axCBZHXGQKo-unsplash.jpg);
 }
 
